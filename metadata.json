@@ -1,5 +1,8 @@
 {
-  "name": "Copy of Apex Performance",
-  "description": "A high-conversion personal trainer landing page featuring an AI-powered instant workout generator.",
-  "requestFramePermissions": []
+  "name": "Matan's Developer Portfolio",
+  "description": "The elite portfolio of Matan (matan2288), Full Stack & AI Engineer, featuring a bento grid design, project showcase, and a fully interactive Gemini-fueled AI Persona chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

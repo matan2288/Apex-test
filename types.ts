@@ -32,3 +32,11 @@ export interface WorkoutPlanResponse {
   }[];
   motivationalQuote: string;
 }
+
+export interface ChatMessage {
+  id: string;
+  role: 'user' | 'model';
+  text: string;
+  timestamp: string;
+}
+
